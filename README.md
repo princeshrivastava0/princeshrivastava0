@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <p align="center">
     <a href="https://github.com/princeshrivastava0">
-        <img src="/Prince Shrivastava.png" alt="Prince Shrivastava" width="500" /></a>
+        <img src="/princeshrivastava0/Prince Shrivastava.png" alt="Prince Shrivastava" width="500" /></a>
 </p>
 
 <p align="center">
