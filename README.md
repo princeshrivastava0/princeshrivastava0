@@ -34,15 +34,15 @@
     alt="coding_gif">
 
 <!-- Social icons section -->
-<h3 align="center">Connect with me</h3>
+<h4 align="center">Connect with me</h4>
 <p align="center">
-    <a href="https://www.youtube.com/c/PrinceShrivastava"><img width="40px" alt="Youtube" title="Youtube"
+    <a href="https://www.youtube.com/c/PrinceShrivastava"><img width="30px" alt="Youtube" title="Youtube"
             src="https://cdn-icons-png.flaticon.com/512/725/725300.png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/princeshrivastava_/"><img width="40px" alt="Instagram" title="Instagram"
+    <a href="https://www.instagram.com/princeshrivastava_/"><img width="30px" alt="Instagram" title="Instagram"
             src="https://cdn-icons-png.flaticon.com/512/1383/1383263.png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.linkedin.com/in/prince-shrivastava/" alt="LinkedIn" title="LinkedIn"><img width="40px"
+    <a href="https://www.linkedin.com/in/prince-shrivastava/" alt="LinkedIn" title="LinkedIn"><img width="30px"
             src="https://cdn-icons-png.flaticon.com/512/1384/1384889.png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <br> <br>
