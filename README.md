@@ -51,8 +51,3 @@
     
  </p>          
   <p align="center"> <img width="125px" src="https://komarev.com/ghpvc/?username=princeshrivastava0&label=Profile%20visits&color=0e75b6&style=flat" alt="princeshrivastava0" /> </p> 
-  <br><br><br>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Prince Shrivastava's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=princeshrivastava0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-
