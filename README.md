@@ -35,7 +35,7 @@
 <!-- Social icons section -->
 <h4 align="center">Connect with me</h4>
 <p align="center">
-    <a href="https://www.youtube.com/c/coding.prince" target="_blank"><img width="30px" alt="Youtube" title="Youtube"
+    <a href="https://www.youtube.com/@coding.prince" target="_blank"><img width="30px" alt="Youtube" title="Youtube"
             src="https://cdn-icons-png.flaticon.com/512/725/725300.png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.instagram.com/coding.prince/" target="_blank"><img width="30px" alt="Instagram" title="Instagram"
@@ -45,9 +45,9 @@
             src="https://cdn-icons-png.flaticon.com/512/1384/1384889.png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <br> <br>
-    <a href="https://www.youtube.com/@coding.prince?sub_confirmation=1"> <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-    <a href="https://www.instagram.com/coding.prince"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Follow me on Instagarm"></a>
-    <a href="https://www.linkedin.com/in/prince-shrivastava/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" title="Follow me on Instagarm"></a>
+    <a href="https://www.youtube.com/@coding.prince?sub_confirmation=1" target="_blank"> <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="https://www.instagram.com/coding.prince" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Follow me on Instagarm"></a>
+    <a href="https://www.linkedin.com/in/prince-shrivastava/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" title="Follow me on Instagarm"></a>
     
  </p>          
   <p align="center"> <img width="125px" src="https://komarev.com/ghpvc/?username=princeshrivastava0&label=Profile%20visits&color=0e75b6&style=flat" alt="princeshrivastava0" /> </p> 
