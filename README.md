@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center"><a href="https://github.com/princeshrivastava0">Prince Shrivastava </a></h1>
+    <h1 align="center"><a href="https://github.com/princeshrivastava0">Prince Shrivastava - MERN Stack Developer</a></h1>
 </p>
 
 <p align="center">
@@ -8,12 +8,12 @@
         <img
             src="https://readme-typing-svg.demolab.com/?lines=I%20am%20a%20Web-Developer;I%20am%20a%20MERN-Stack Developer;I%20am%20a%20Youtuber;I%20am%20a%20Freelancer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-
+<h2 align="left">Hi there, <img src="https://github.com/princeshrivastava0/princeshrivastava0/blob/main/wave.gif?raw=true" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> Welcome to My Github Profile.</h2>
+<p align="left">I am a <strong>Full-Stack Web-Developer</strong> based on <strong>MERN-Stack</strong>. I am familiar with HTML, CSS, Bootstrap, JavaScript, jQuery, ReactJS, NodeJS, ExpressJS, MongoDB, CLI, Git, GitHub amongst many others and have several projects related to the above technologies, some of which my portfolio showcases. I am always excited to learn new things, grow and expand my knowledge!</p>
+<h3 align="left">Skills:</h3>
 <img  align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img  align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img  align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
