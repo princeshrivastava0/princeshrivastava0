@@ -1,20 +1,14 @@
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <p align="center">
-    Hey! I am[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
     <h1 align="center"><a href="https://github.com/princeshrivastava0"> Prince Shrivastava </a></h1>
 </p>
 
 <p align="center">
-    
     <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img
-            src="https://readme-typing-svg.demolab.com/?lines=Web-Developer;MERN-Stack Developer;Freelancer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+            src="https://readme-typing-svg.demolab.com/?lines=I%20am%20a%20Web-Developer;I%20am%20a%20Freelancer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
