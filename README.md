@@ -1,14 +1,15 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <p align="center">
-    <h1 align="center"><a href="https://github.com/princeshrivastava0"> Prince Shrivastava </a></h1>
+    <h1 align="center"><a href="https://github.com/princeshrivastava0">Prince Shrivastava </a></h1>
 </p>
 
 <p align="center">
     <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img
-            src="https://readme-typing-svg.demolab.com/?lines=I%20am%20a%20Web-Developer;I%20am%20a%20Freelancer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+            src="https://readme-typing-svg.demolab.com/?lines=I%20am%20a%20Web-Developer;I%20am%20a%20MERN-Stack Developer;I%20am%20a%20Youtuber;I%20am%20a%20Freelancer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,5 +50,6 @@
     <a href="https://www.instagram.com/coding.prince" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Follow me on Instagarm"></a>
     <a href="https://www.linkedin.com/in/prince-shrivastava/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" title="Follow me on Instagarm"></a>
     
- </p>          
-  <p align="center"> <img width="125px" src="https://komarev.com/ghpvc/?username=princeshrivastava0&label=Profile%20visits&color=0e75b6&style=flat" alt="princeshrivastava0" /> </p> 
+ </p>    
+<!-- Profile Views Indicator -->
+  <p align="center"> <img width="125px" src="https://komarev.com/ghpvc/?username=princeshrivastava0&color=blueviolet" alt="princeshrivastava0" /> </p> 
