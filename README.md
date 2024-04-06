@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center"><a href="https://github.com/princeshrivastava0">Prince Shrivastava - MERN Stack Developer</a></h1>
+    <h1 align="center"><a href="https://github.com/princeshrivastava0">Prince Shrivastava - ReactJS | NodeJS Developer</a></h1>
 </p>
 
 <p align="center">
