@@ -33,7 +33,7 @@
 <img  align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />             <br>
 
 <br><br>
-<img align="centre" src="https://cdn.freebiesupply.com/logos/large/2x/github-octocat-logo-png-transparent.png"
+<img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/github-octocat-logo-png-transparent.png"
     alt="github_logo" height="250px" >
     <br />
 
