@@ -33,8 +33,8 @@
 <img  align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />             <br>
 
 <br><br>
-<img width="50%" align="right" src="https://camo.githubusercontent.com/c8626937d147ba7805f0989930848b2065807daae2202356d7201a9246c30b51/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f3831626234623136353638343031392e363430623630333864313333652e676966"
-    alt="coding_gif">
+<img width="50%" align="right" src="[https://camo.githubusercontent.com/c8626937d147ba7805f0989930848b2065807daae2202356d7201a9246c30b51/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f3831626234623136353638343031392e363430623630333864313333652e676966](https://cdn.freebiesupply.com/logos/large/2x/github-octocat-logo-png-transparent.png)"
+    alt="github_logo">
 
 <!-- Social icons section -->
 <h4 align="center">Connect with me</h4>
