@@ -34,7 +34,7 @@
 
 <br><br>
 <img width="50%" align="right" src="https://cdn.freebiesupply.com/logos/large/2x/github-octocat-logo-png-transparent.png"
-    alt="github_logo" height="50px">
+    alt="github_logo" height="500px">
 
 <!-- Social icons section -->
 <h4 align="center">Connect with me</h4>
