@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center"><a href="https://github.com/princeshrivastava0">Prince Shrivastava - ReactJS | NodeJS Developer</a></h1>
+    <h1 align="center"><a href="https://github.com/princeshrivastava0">Prince Shrivastava — Software Developer | Creator | Entrepreneur</a></h1>
 </p>    
      
 <h2 align="left">Hi there, <img src="https://github.com/princeshrivastava0/princeshrivastava0/blob/main/wave.gif?raw=true" 
@@ -27,9 +27,6 @@
 <img  align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />             <br>
 
 <br><br>
-<img align="left" src="https://cdn.freebiesupply.com/logos/large/2x/github-octocat-logo-png-transparent.png"
-    alt="github_logo" height="250px" >
-
 
 <!-- Social icons section -->
 <h4 align="center">Connect with me</h4>
