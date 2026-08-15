@@ -38,12 +38,6 @@ I enjoy learning new technologies, building projects, and sharing what I learn a
 <p><img align="left" alt="premierepro" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" /><b> - &nbsp;&nbsp;Adobe Premiere Pro</b></p>
 <p><img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><b> - &nbsp;&nbsp;Linux</b></p>
 
-
-
-
-
-
-
 <br><br>
 
 <!-- Social icons section -->
@@ -57,10 +51,8 @@ I enjoy learning new technologies, building projects, and sharing what I learn a
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.linkedin.com/in/prince-shrivastava/" alt="LinkedIn" title="LinkedIn" target="_blank"><img width="30px"
             src="https://cdn-icons-png.flaticon.com/512/1384/1384889.png" /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <br> <br>
-    
-    
+    &#8287;&#8287;&#8287;&#8287;&#8287;          
  </p>    
+ 
 <!-- Profile Views Indicator -->
-  <p align="center"> <img width="125px" src="https://komarev.com/ghpvc/?username=princeshrivastava0&color=blueviolet" alt="princeshrivastava0" /> </p> 
+<p align="center"><img width="125px" src="https://komarev.com/ghpvc/?username=princeshrivastava0&color=blueviolet" alt="princeshrivastava0" /> </p> 
