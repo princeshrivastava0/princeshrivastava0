@@ -40,22 +40,21 @@ I enjoy learning new technologies, building projects, and sharing what I learn a
 <p><img align="left"  alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><b> - &nbsp;&nbsp;GitHub</b></p>
 <p><img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><b> - &nbsp;&nbsp;VS Code</b></p>
 <p><img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /><b> - &nbsp;&nbsp;Postman</b></p>
-<p><img align="left" alt="adobe-photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" /><b> - &nbsp;&nbsp;Adobe Photoshop</b></p>
+<p><img align="left" alt="adobe-photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" /><b> - &nbsp;&nbsp;Adobe Photoshop</b></p>
 <p><img align="left" alt="adobe-premierepro" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" /><b> - &nbsp;&nbsp;Adobe Premiere Pro</b></p>
 <p><img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><b> - &nbsp;&nbsp;Linux</b></p>
 </td>
 </tr>
 </table>   
 
-
 <!-- Social icons section -->
 <h4 align="center">Connect with me</h4>
 <p align="center">
-    <a href="https://www.youtube.com/@princeshrivastava" target="_blank"><img width="30px" alt="Youtube" title="Youtube" src="https://cdn-icons-png.flaticon.com/512/725/725300.png" /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/princeshrivastava.dev" target="_blank"><img width="30px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/1383/1383263.png" /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.linkedin.com/in/prince-shrivastava/" alt="LinkedIn" title="LinkedIn" target="_blank"><img width="30px" src="https://cdn-icons-png.flaticon.com/512/1384/1384889.png" /></a>      
+    <a href="https://www.youtube.com/@princeshrivastava" target="_blank"><img width="22px" alt="Youtube" title="Youtube" src="https://cdn-icons-png.flaticon.com/512/2111/2111748.png" /></a>
+    &nbsp;
+    <a href="https://www.instagram.com/princeshrivastava.dev" target="_blank"><img width="22px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" /></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/prince-shrivastava/" alt="LinkedIn" title="LinkedIn" target="_blank"><img width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a>      
  </p>    
  
 <!-- Profile Views Indicator -->
