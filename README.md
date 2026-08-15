@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center"><a href="https://github.com/princeshrivastava0">Prince Shrivastava — Software Developer | Creator | Entrepreneur</a></h1>
+    <h1 align="center"><a href="https://github.com/princeshrivastava0">Prince Shrivastava — Software Developer | JavaScript | React</a></h1>
 </p>    
      
 <h2 align="left">Hi there, <img src="https://github.com/princeshrivastava0/princeshrivastava0/blob/main/wave.gif?raw=true" 
@@ -31,19 +31,17 @@
 <!-- Social icons section -->
 <h4 align="center">Connect with me</h4>
 <p align="center">
-    <a href="https://www.youtube.com/@coding.prince" target="_blank"><img width="30px" alt="Youtube" title="Youtube"
+    <a href="https://www.youtube.com/@princeshrivastava" target="_blank"><img width="30px" alt="Youtube" title="Youtube"
             src="https://cdn-icons-png.flaticon.com/512/725/725300.png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/coding.prince/" target="_blank"><img width="30px" alt="Instagram" title="Instagram"
+    <a href="https://www.instagram.com/princeshrivastava.dev" target="_blank"><img width="30px" alt="Instagram" title="Instagram"
             src="https://cdn-icons-png.flaticon.com/512/1383/1383263.png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.linkedin.com/in/prince-shrivastava/" alt="LinkedIn" title="LinkedIn" target="_blank"><img width="30px"
             src="https://cdn-icons-png.flaticon.com/512/1384/1384889.png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <br> <br>
-    <a href="https://www.youtube.com/@coding.prince?sub_confirmation=1" target="_blank"> <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-    <a href="https://www.instagram.com/coding.prince" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Follow me on Instagarm"></a>
-    <a href="https://www.linkedin.com/in/prince-shrivastava/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" title="Follow me on Instagarm"></a>
+    
     
  </p>    
 <!-- Profile Views Indicator -->
