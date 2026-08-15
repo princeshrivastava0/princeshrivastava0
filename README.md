@@ -11,7 +11,8 @@ I enjoy learning new technologies, building projects, and sharing what I learn a
 </p>
 <h3 align="center">Skills</h3>
 <!--- Skills table --->
-<table align="center" width="100%">
+<p align="center">
+  <table align="center" width="100%">
 <tr>
 <!-- Frontend skills -->
 <td valign="top">
@@ -45,7 +46,9 @@ I enjoy learning new technologies, building projects, and sharing what I learn a
 <p><img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><b> - &nbsp;&nbsp;Linux</b></p>
 </td>
 </tr>
-</table>
+</table>   
+</p>
+
 
 <!-- Social icons section -->
 <h4 align="center">Connect with me</h4>
