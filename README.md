@@ -11,8 +11,7 @@ I enjoy learning new technologies, building projects, and sharing what I learn a
 </p>
 <h3 align="center">Skills</h3>
 <!--- Skills table --->
-<p align="center">
-  <table align="center" width="100%">
+<table align="center" width="100%">
 <tr>
 <!-- Frontend skills -->
 <td valign="top">
@@ -47,7 +46,6 @@ I enjoy learning new technologies, building projects, and sharing what I learn a
 </td>
 </tr>
 </table>   
-</p>
 
 
 <!-- Social icons section -->
