@@ -37,7 +37,7 @@ I enjoy learning new technologies, building projects, and sharing what I learn a
 <td valign="top">
 <h4 align="center">Tools</h4>
 <p><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><b> - &nbsp;&nbsp;Git</b></p>
-<p><img align="left"  alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><b> - &nbsp;&nbsp;Github</b></p>
+<p><img align="left"  alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><b> - &nbsp;&nbsp;GitHub</b></p>
 <p><img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><b> - &nbsp;&nbsp;VS Code</b></p>
 <p><img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /><b> - &nbsp;&nbsp;Postman</b></p>
 <p><img align="left" alt="adobe-photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" /><b> - &nbsp;&nbsp;Adobe Photoshop</b></p>
