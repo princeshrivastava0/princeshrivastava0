@@ -13,36 +13,45 @@ I enjoy learning new technologies, building projects, and sharing what I learn a
 <!--- Skills table --->
 <table align="center" width="100%">
 <tr>
+<!--- Heading row --->
+<td valign="top">
+<h4 align="center">Frontend</h4>            
+</td>
+<td valign="top">
+<h4 align="center">Backend</h4>
+</td>
+<td valign="top">
+<h4 align="center">Tools</h4>
+</td>
+</tr>
+<tr>
 <!-- Frontend skills -->
 <td valign="top">
-<h4 align="center">Frontend</h4>
-<p><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><b> - &nbsp;&nbsp;HTML5</b></p>
-<p><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><b> - &nbsp;&nbsp;CSS3</b></p>
-<p><img align="left" alt="Bootstrap" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><b> - &nbsp;&nbsp;Bootstrap</b></p>
-<p><img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><b> - &nbsp;&nbsp;JavaScript</b></p>
-<p><img align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" /><b> - &nbsp;&nbsp;jQuery</b></p>
-<p><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><b> - &nbsp;&nbsp;ReactJS</b></p>
-<p><img align="left" alt="NextJS-Icon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /><b> - &nbsp;&nbsp;NextJS</b></p>
+<p><img align="left" alt="HTML5" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><b> - &nbsp;&nbsp;HTML5</b></p>
+<p><img align="left" alt="CSS3" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><b> - &nbsp;&nbsp;CSS3</b></p>
+<p><img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><b> - &nbsp;&nbsp;Bootstrap</b></p>
+<p><img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><b> - &nbsp;&nbsp;JavaScript</b></p>
+<p><img align="left" alt="jQuery" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" /><b> - &nbsp;&nbsp;jQuery</b></p>
+<p><img align="left" alt="React" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><b> - &nbsp;&nbsp;ReactJS</b></p>
+<p><img align="left" alt="NextJS-Icon" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /><b> - &nbsp;&nbsp;NextJS</b></p>
 </td>
 
 <!-- Backend skills  -->
 <td valign="top">
-<h4 align="center">Backend</h4>
-<p><img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><b> - &nbsp;&nbsp;NodeJS</b></p>
-<p><img align="left" alt="Express.Js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /><b> - &nbsp;&nbsp;ExpressJS</b></p>
-<p><img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /><b> - &nbsp;&nbsp;MongoDB</b></p>
+<p><img align="left" alt="Node.js" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><b> - &nbsp;&nbsp;NodeJS</b></p>
+<p><img align="left" alt="Express.Js" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /><b> - &nbsp;&nbsp;ExpressJS</b></p>
+<p><img align="left" alt="MongoDB" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /><b> - &nbsp;&nbsp;MongoDB</b></p>
 </td>
 
 <!-- Tools -->
 <td valign="top">
-<h4 align="center">Tools</h4>
-<p><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><b> - &nbsp;&nbsp;Git</b></p>
-<p><img align="left"  alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><b> - &nbsp;&nbsp;GitHub</b></p>
-<p><img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><b> - &nbsp;&nbsp;VS Code</b></p>
-<p><img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /><b> - &nbsp;&nbsp;Postman</b></p>
-<p><img align="left" alt="adobe-photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" /><b> - &nbsp;&nbsp;Adobe Photoshop</b></p>
-<p><img align="left" alt="adobe-premierepro" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" /><b> - &nbsp;&nbsp;Adobe Premiere Pro</b></p>
-<p><img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><b> - &nbsp;&nbsp;Linux</b></p>
+<p><img align="left" alt="Git" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><b> - &nbsp;&nbsp;Git</b></p>
+<p><img align="left"  alt="Github" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><b> - &nbsp;&nbsp;GitHub</b></p>
+<p><img align="left" alt="Visual Studio Code" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><b> - &nbsp;&nbsp;VS Code</b></p>
+<p><img align="left" alt="Postman" width="24px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /><b> - &nbsp;&nbsp;Postman</b></p>
+<p><img align="left" alt="adobe-photoshop" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" /><b> - &nbsp;&nbsp;Adobe Photoshop</b></p>
+<p><img align="left" alt="adobe-premierepro" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" /><b> - &nbsp;&nbsp;Adobe Premiere Pro</b></p>
+<p><img align="left" alt="linux" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><b> - &nbsp;&nbsp;Linux</b></p>
 </td>
 </tr>
 </table>   
